@@ -7,7 +7,7 @@ cask "sshvault-app" do
   desc "Local encrypted vault and UI for SSH keys, hosts and files"
   homepage "https://github.com/lucasmenendez/sshvault"
 
-  depends_on macos: ">= :monterey"
+  depends_on macos: :monterey
 
   app "SSHVault.app"
 
