@@ -2,6 +2,8 @@
 
 ```bash
 brew tap lucasmenendez/sshvault
+# Homebrew 7 or newer: trust the third-party tap
+brew trust lucasmenendez/sshvault
 brew install sshvault
 sshvault --ui
 ```
