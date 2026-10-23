@@ -1,8 +1,8 @@
 class Sshvault < Formula
   desc "Local encrypted vault and UI for SSH keys, hosts and files"
   homepage "https://github.com/lucasmenendez/sshvault"
-  url "https://github.com/lucasmenendez/sshvault/releases/download/v0.7.3/sshvault-darwin-universal.tar.gz"
-  sha256 "3cc099d5a245abb838780b45a80cdb4c9a1a8f565434276981dc3dd229773cd6"
+  url "https://github.com/lucasmenendez/sshvault/releases/download/v0.7.4/sshvault-darwin-universal.tar.gz"
+  sha256 "1e2b76f9ebcf2171afcf4b5c882cebe83bc1eb3b83ac10cceb07b2b3ead44ad0"
   license "AGPL-3.0-only"
 
   depends_on :macos
