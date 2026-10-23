@@ -1,6 +1,6 @@
 cask "sshvault-app" do
-  version "0.7.6"
-  sha256 "a7719a067ab434a730edf2ddcb3c4248f3a6ad7df930cae42e041575bbcbc3d4"
+  version "0.7.7"
+  sha256 "c98b8eb701c1af9bb0ea6afefc00365676bc0441d1341e3d6ca05b7c0e945b60"
 
   url "https://github.com/lucasmenendez/sshvault/releases/download/v#{version}/SSHVault-#{version}.zip"
   name "SSHVault"
